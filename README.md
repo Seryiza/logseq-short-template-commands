@@ -1,0 +1,1 @@
+# logseq-short-template-commands
